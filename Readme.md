@@ -24,3 +24,7 @@ CSS3 – Flexbox layouts, responsive media queries, gradients, transitions, hove
 Font Awesome – Icons for navigation, search, notifications, and user interface elements.
 
 Demo:
+
+
+https://github.com/user-attachments/assets/26a41949-9f81-43fc-b409-4fec52b6caa8
+
