@@ -10,12 +10,12 @@ You can view the project here:
 <br>
 
 ✨ Features
-<b>Cinematic Hero Banner:<b> Large featured section with movie title, description, and action buttons.
-<b>Fixed Navigation Bar:<b> Netflix-style navigation with logo, menu links, search icon, notifications, and profile avatar.
-<b>Categorized Content Rows:<b> Multiple horizontally scrollable sections such as Trending Now, Top Picks, Continue Watching, and Top 10.
-<b>Interactive Hover Effects:<b> Smooth scaling animations and visual emphasis on movie thumbnails.
-<b>Responsive Design:<b> Optimized layout for desktop, tablet, and mobile devices using CSS media queries.
-<b>Professional Footer:<b> Social media icons and organized navigation links inspired by modern streaming platforms.
+<br>Cinematic Hero Banner: Large featured section with movie title, description, and action buttons.
+<br>Fixed Navigation Bar: Netflix-style navigation with logo, menu links, search icon, notifications, and profile avatar.
+<br>Categorized Content Rows: Multiple horizontally scrollable sections such as Trending Now, Top Picks, Continue Watching, and Top 10.
+<br>Interactive Hover Effects: Smooth scaling animations and visual emphasis on movie thumbnails.
+<br>Responsive Design: Optimized layout for desktop, tablet, and mobile devices using CSS media queries.
+<br>Professional Footer: Social media icons and organized navigation links inspired by modern streaming platforms.
 
 🛠️ Technologies Used
 HTML5 – Semantic page structure and content organization.
