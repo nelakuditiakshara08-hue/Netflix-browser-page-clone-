@@ -2,7 +2,6 @@
 
 A responsive Netflix-inspired streaming platform interface developed using HTML5 and CSS3. This project recreates the visual experience of Netflix's browse page with a cinematic hero banner, fixed navigation bar, categorized movie sections, interactive thumbnail hover effects, and a fully responsive layout. It demonstrates modern front-end development principles with a strong emphasis on clean design and user experience.
 <br>
-🚀 Live Demo
 
 You can view the project here:
 
