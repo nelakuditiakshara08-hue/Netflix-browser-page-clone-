@@ -18,12 +18,12 @@ You can view the project here:
 <br>Professional Footer: Social media icons and organized navigation links inspired by modern streaming platforms.
 
 🛠️ Technologies Used
-HTML5 – Semantic page structure and content organization.
-CSS3 – Flexbox layouts, responsive media queries, gradients, transitions, hover animations, and custom styling.
-Font Awesome – Icons for navigation, search, notifications, and user interface elements.
+<br>HTML5 – Semantic page structure and content organization.
+<br>CSS3 – Flexbox layouts, responsive media queries, gradients, transitions, hover animations, and custom styling.
+<br>Font Awesome – Icons for navigation, search, notifications, and user interface elements.
 
 Demo:
-
+<br>
 
 https://github.com/user-attachments/assets/26a41949-9f81-43fc-b409-4fec52b6caa8
 
